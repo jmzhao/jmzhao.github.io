@@ -1,8 +1,8 @@
 # Jinman Zhao
 [Google Scholar](https://scholar.google.com/citations?user=hSKabQ4AAAAJ) / [LinkedIn](https://linkedin.com/in/jinmanzhao) / (first)(.)(lastname)(a)gmail(.)com
 
-I am an applied scientist at Amazon Web Services. My team focuses on large foundation models.
-Before that, I was [a PhD student](http://pages.cs.wisc.edu/~jz/) at University of Wisconsin-Madison.
+I am an applied scientist at Amazon Web Services, part of a team that focuses on large foundation models.
+Before that, I was [a PhD student](http://pages.cs.wisc.edu/~jz/) at University of Wisconsin-Madison, advised by Prof. Somesh Jha and Prof. Aws Albarghouthi.
 Before that, I was an undergrad at Nanjing University.
 
 My research interest lies broadly in the intersection of machine learning, programming language and natural language. 
