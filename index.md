@@ -6,7 +6,7 @@ Before it, I was [a PhD student](http://pages.cs.wisc.edu/~jz/) at University of
 Before it, I was an undergrad at Nanjing University.
 
 My research interest lies broadly in the intersection of machine learning, programming language and natural language. 
-Some specific topics include machine learning for code (ML4Code), language models, efficiency, and interpretability.
+Some specific topics include machine learning for code (ML4Code), language models, alignment, efficiency, and interpretability.
 
 ---
 ### Papers
@@ -52,7 +52,7 @@ Lingjiao Chen, Hongyi Wang, _Jinman Zhao_, Dimitris Papailiopoulos, Paraschos Ko
 
 
 ### Service & Activities
-- Mentored Tuan Dinh, Hengzhi Pei, Samika Gupta, Shawn Zhong.
+- Mentor of Tuan Dinh, Hengzhi Pei, Samika Gupta, Shawn Zhong.
 - Reviewer of 
   - NeurIPS’23, AMLC'23, Amazon Research Award '23, ICML’23, AISTATS’23, ICLR’23, AAAI’23;
   - NeurIPS’22, AMLC'22, Amazon Research Award '22, ICML’22 (highlighted reviewer), AISTATS’22 (top reviewer), ICLR’22, AAAI’22; 
